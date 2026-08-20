@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(/c/laragon/bin/php/php-8.5/php.exe artisan *)",
+      "Bash(/c/laragon/bin/php/php-8.5/php.exe -m)",
+      "Bash(/c/laragon/bin/php/php-8.5/php.exe --ini)"
+    ]
+  }
+}
